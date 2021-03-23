@@ -1,11 +1,5 @@
 # ==============================================================================
 # PROGRAM Software Sales
-#
-# AUTHOR: Sabrina Pinera
-# FSU MAIL NAME: Sp17m
-# RECITATION SECTION NUMBER: < 002 (F 01:25PM-02:15PM) >
-# RECITATION INSTRUCTOR NAME: Gradon Stone
-# COP 3035 - Fall 2019
 # PROJECT NUMBER: 2 
 # DUE DATE: Tuesday 9/24/2019
 # PLATFORM: Windows OS / Python 3
